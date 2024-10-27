@@ -51,3 +51,4 @@ do nível de dificuldade da questão para as operações.
 ```
 
 ## Visualização do Projeto 
+Visualização: https://www.youtube.com/watch?v=ec9Mm5kCPjw&list=PLWg5CC8aATZ5RrIdn_Wg7dK6YcKAlXKhs&index=3&ab_channel=Oentusiastadatecnologia
